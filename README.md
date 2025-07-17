@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm SUMAN MANDAL [RAJ]</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 ![logo](https://github.com/Suman789438/Suman789438/blob/main/Picsart_25-07-17_14-37-54-398.jpg)
-<img align="right"alt="coding"width: 400;; src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<h3 align="center">A passionate frontend developer from India</h3>
+<img align="center"alt="coding"width: 500;; src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suman789438&label=Profile%20views&color=0e75b6&style=flat" alt="suman789438" /> </p>
 
